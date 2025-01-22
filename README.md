@@ -2,4 +2,5 @@
 
 In this project, I had been tasked with producing a good solution to the bin packing problem using the random mutation hill climbing algorithm.
 
-## Lnaguage Used
+## Language Used
+C#
